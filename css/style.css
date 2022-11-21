@@ -1,0 +1,15 @@
+nav a{
+    text-align: center;
+    text-decoration: none;
+    margin: 15px;
+    font-size: medium;
+    font-weight: 800;
+    color: white;
+}
+.icon a{
+    text-decoration: none;
+    font-weight: 800;
+    color: white;
+    font-size: medium;
+    margin: 20px;
+}
