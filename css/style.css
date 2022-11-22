@@ -21,3 +21,29 @@ nav a{
     box-shadow: 0.5rem rem rgba(0,0,0,0.2);
     background-color: transparent;
 } */
+#mar-img{
+    width: 35%;
+    height: 35%;
+    display: flexbox;
+    border-radius: 15px;
+    display: inline-flex;
+    padding: 7px;
+    position: relative;
+    opacity: 1;
+}
+.text{
+    position: absolute;
+    top: 250px;
+    left: 140px;
+    background-color: green;
+    border: 0;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    font: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 2;
+}
+
+
+
