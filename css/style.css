@@ -65,6 +65,9 @@ nav :hover{
     background-color: green;
     border-radius: 7px;
 }
+.buyBtn :hover{
+    color: black;
+}
 
 
 
