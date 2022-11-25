@@ -78,6 +78,17 @@ nav :hover{
     margin: 10px;
     padding: 10px;
 }
+.followUs{
+    text-align: center;
+    font-size: larger;
+    color: white;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.followUs i{
+    text-decoration: none;
+}
+
 
 
 
