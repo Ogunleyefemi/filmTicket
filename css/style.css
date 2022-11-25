@@ -68,6 +68,16 @@ nav :hover{
 .buyBtn :hover{
     color: black;
 }
+.showAll{
+    text-align: center;
+}
+.showAll button{
+    background-color: green;
+    text-align: center;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
 
 
 
