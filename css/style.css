@@ -88,6 +88,26 @@ nav :hover{
 .followUs i{
     text-decoration: none;
 }
+footer{
+    display: inline-flex;
+}
+.content{
+    display: flex;
+    text-align: center;
+    margin-left: 200px;
+    padding-top: 40px;
+    float: right;
+}
+.content a{
+    text-decoration: none;
+    color: white;
+    margin: 15px;
+    font-size: medium;
+    font-weight: 800;
+}
+.content :hover{
+    color: green;
+}
 
 
 
